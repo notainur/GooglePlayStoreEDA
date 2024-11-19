@@ -32,4 +32,4 @@ Most apps on the Play Store are free.
 Categories like "Games" and "Tools" dominate the market.
 Higher ratings are often correlated with more installs.
 
-Detailed findings are available in the notebook/script.
+Detailed findings are available in the [notebook/script](https://github.com/notainur/GooglePlayStoreEDA/blob/main/Google_Play_Store_Data_Analysis.ipynb).
